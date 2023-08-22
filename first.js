@@ -1,0 +1,1 @@
+// HI this is my first JS code with MASAI 
